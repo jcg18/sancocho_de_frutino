@@ -487,3 +487,160 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 04:09:06.830] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
 [12Dec2024 04:09:06.847] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
 [12Dec2024 04:09:12.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:09:35.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was killed
+[12Dec2024 04:09:35.604] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:09:35.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Killed MrPink007]
+[12Dec2024 04:09:35.606] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:09:38.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/19690, l='ServerLevel[world]', x=-1047.30, y=-37.04, z=497.30] died: Zombie Player was slain by Xx0bama228xX
+[12Dec2024 04:09:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Tortured Soul
+[12Dec2024 04:09:42.498] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[12Dec2024 04:10:32.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/20082, l='ServerLevel[world]', x=-1065.70, y=-50.00, z=455.70] died: Zombie Player was slain by MrPink007
+[12Dec2024 04:10:40.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Good Demoman]
+[12Dec2024 04:11:01.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Amateur Archaeologist]
+[12Dec2024 04:11:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Junior Summoner]
+[12Dec2024 04:11:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Baby Skeleton
+[12Dec2024 04:11:40.182] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:11:40.185] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:12:01.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombie
+[12Dec2024 04:12:01.332] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:12:01.336] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:12:01.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported MrPink007 to juandpl18]
+[12Dec2024 04:12:07.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[12Dec2024 04:12:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombie Player
+[12Dec2024 04:12:49.995] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:12:50.010] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:13:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombie
+[12Dec2024 04:13:11.634] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:13:11.646] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:13:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[12Dec2024 04:13:28.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[12Dec2024 04:13:39.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/20974, l='ServerLevel[world]', x=-1066.80, y=-50.00, z=449.51] died: Zombie Player was slain by juandpl18
+[12Dec2024 04:13:57.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/21786, l='ServerLevel[world]', x=-1065.14, y=-48.00, z=450.24] died: Zombie Player was slain by juandpl18
+[12Dec2024 04:13:58.281] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/21491, l='ServerLevel[world]', x=-1061.47, y=-47.00, z=448.70] died: Zombie Player was slain by Xx0bama228xX
+[12Dec2024 04:14:02.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/21251, l='ServerLevel[world]', x=-1064.00, y=-47.00, z=447.58] died: Zombie Player was slain by Xx0bama228xX
+[12Dec2024 04:14:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Zombie
+[12Dec2024 04:14:22.884] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[12Dec2024 04:14:22.886] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:14:27.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[12Dec2024 04:14:40.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombie
+[12Dec2024 04:14:40.429] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:14:40.438] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:14:50.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Zombie Player
+[12Dec2024 04:14:50.342] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[12Dec2024 04:14:50.347] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:14:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Zombie Player
+[12Dec2024 04:14:52.722] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[12Dec2024 04:14:52.756] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[12Dec2024 04:14:54.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[12Dec2024 04:15:06.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombie Player
+[12Dec2024 04:15:06.779] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:15:06.784] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:15:12.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/22476, l='ServerLevel[world]', x=-1066.95, y=-50.00, z=450.69] died: Zombie Player was slain by juandpl18
+[12Dec2024 04:15:25.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/22187, l='ServerLevel[world]', x=-1077.92, y=-52.00, z=445.05] died: Zombie Player was slain by MrPink007
+[12Dec2024 04:15:33.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/22684, l='ServerLevel[world]', x=-1075.26, y=-52.00, z=445.46] died: Zombie Player was slain by juandpl18
+[12Dec2024 04:15:35.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/23038, l='ServerLevel[world]', x=-1074.33, y=-52.00, z=444.09] died: Zombie Player was slain by juandpl18
+[12Dec2024 04:15:39.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/22767, l='ServerLevel[world]', x=-1072.35, y=-51.00, z=444.71] died: Zombie Player was slain by Xx0bama228xX
+[12Dec2024 04:17:13.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Xx0bama228xX
+[12Dec2024 04:17:13.140] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[12Dec2024 04:17:13.149] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:17:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[12Dec2024 04:17:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:17:33.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/23568, l='ServerLevel[world]', x=-1079.11, y=-52.00, z=443.59] died: Zombie Player was slain by Xx0bama228xX
+[12Dec2024 04:18:25.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by juandpl18
+[12Dec2024 04:18:25.711] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[12Dec2024 04:18:25.720] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[12Dec2024 04:18:29.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/24011, l='ServerLevel[world]', x=-1077.75, y=-52.00, z=443.75] died: Zombie Player was slain by juandpl18
+[12Dec2024 04:18:30.363] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1373, y=-20, z=273}
+[12Dec2024 04:18:30.363] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1362, y=-21, z=279}
+[12Dec2024 04:18:35.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[12Dec2024 04:19:18.441] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1429, y=-19, z=422}
+[12Dec2024 04:19:36.336] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1071, y=10, z=758}
+[12Dec2024 04:20:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:20:50.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1244, y=-26, z=771}
+[12Dec2024 04:21:01.297] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1321, y=-32, z=844}
+[12Dec2024 04:21:01.304] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1110, y=-30, z=832}
+[12Dec2024 04:21:03.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1393, y=-53, z=819}
+[12Dec2024 04:21:08.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1175, y=-20, z=865}
+[12Dec2024 04:21:10.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Xx0bama228xX
+[12Dec2024 04:21:10.647] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[12Dec2024 04:21:10.655] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:21:14.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:21:17.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/25474, l='ServerLevel[world]', x=-1082.51, y=-52.00, z=439.51] died: Zombie Player was slain by Xx0bama228xX
+[12Dec2024 04:21:19.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Dec2024 04:21:21.869] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1192, y=-24, z=888}
+[12Dec2024 04:21:38.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1433, y=-34, z=927}
+[12Dec2024 04:22:01.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by juandpl18
+[12Dec2024 04:22:01.725] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[12Dec2024 04:22:01.774] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[12Dec2024 04:22:06.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/25948, l='ServerLevel[world]', x=-1078.06, y=-52.00, z=443.59] died: Zombie Player was slain by juandpl18
+[12Dec2024 04:22:08.941] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1511, y=-16, z=653}
+[12Dec2024 04:22:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[12Dec2024 04:22:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Sweet Dreams]
+[12Dec2024 04:22:21.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Sweet Dreams]
+[12Dec2024 04:22:26.409] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1182, y=-44, z=966}
+[12Dec2024 04:23:08.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1341, y=-46, z=1020}
+[12Dec2024 04:23:17.806] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1241, y=-19, z=1053}
+[12Dec2024 04:23:18.012] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1060, y=-13, z=1012}
+[12Dec2024 04:24:19.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1529, y=-22, z=842}
+[12Dec2024 04:24:21.136] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1534, y=-50, z=923}
+[12Dec2024 04:24:26.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1566, y=-53, z=659}
+[12Dec2024 04:24:33.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1474, y=20, z=1007}
+[12Dec2024 04:24:39.268] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1556, y=-20, z=624}
+[12Dec2024 04:24:41.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1580, y=-11, z=1003}
+[12Dec2024 04:24:53.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1498, y=-32, z=531}
+[12Dec2024 04:24:53.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1513, y=-7, z=531}
+[12Dec2024 04:25:01.909] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1478, y=-25, z=521}
+[12Dec2024 04:25:03.579] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1679, y=2, z=624}
+[12Dec2024 04:25:14.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[12Dec2024 04:25:20.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1509, y=20, z=1048}
+[12Dec2024 04:25:31.464] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1633, y=-1, z=504}
+[12Dec2024 04:25:40.393] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1438, y=-10, z=1097}
+[12Dec2024 04:25:40.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1481, y=-25, z=1101}
+[12Dec2024 04:25:40.914] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1426, y=-16, z=1106}
+[12Dec2024 04:25:40.914] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1429, y=13, z=1119}
+[12Dec2024 04:25:52.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:26:01.390] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1657, y=9, z=1046}
+[12Dec2024 04:26:04.577] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1692, y=-52, z=979}
+[12Dec2024 04:26:21.347] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1684, y=-42, z=875}
+[12Dec2024 04:26:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported juandpl18 to MrPink007]
+[12Dec2024 04:26:26.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was shot by Supreme Bonescaller
+[12Dec2024 04:26:26.747] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[12Dec2024 04:26:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Baby Spider
+[12Dec2024 04:26:30.202] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:26:41.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[12Dec2024 04:26:43.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:27:00.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
+[12Dec2024 04:27:04.761] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1475, y=4, z=1199}
+[12Dec2024 04:27:09.189] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[12Dec2024 04:27:09.699] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[12Dec2024 04:27:10.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Senior Summoner]
+[12Dec2024 04:27:10.762] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1519, y=-23, z=1209}
+[12Dec2024 04:27:12.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1782, y=-23, z=974}
+[12Dec2024 04:27:47.207] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1594, y=-43, z=1258}
+[12Dec2024 04:27:47.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Mimic
+[12Dec2024 04:27:47.974] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:27:56.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:27:58.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[12Dec2024 04:28:01.856] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1595, y=5, z=1276}
+[12Dec2024 04:28:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Chest Slayer]
+[12Dec2024 04:28:09.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1595, y=8, z=1285}
+[12Dec2024 04:28:17.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1806, y=-15, z=1010}
+[12Dec2024 04:28:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:28:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Xx0bama228xX
+[12Dec2024 04:28:40.229] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:28:46.232] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:28:46.261] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1808, y=-32, z=952}
+[12Dec2024 04:28:46.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrPink007 moved too quickly! -14.001802875412068,-1.0,10.628259575209881
+[12Dec2024 04:28:47.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has reached the goal [Exorcism]
+[12Dec2024 04:28:52.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Exorcism]
+[12Dec2024 04:28:53.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[12Dec2024 04:28:55.478] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1855, y=-31, z=942}
+[12Dec2024 04:28:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 burned to death
+[12Dec2024 04:28:58.832] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:29:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Bone Crusher]
+[12Dec2024 04:29:10.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
+[12Dec2024 04:29:12.389] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1872, y=-23, z=1003}
+[12Dec2024 04:29:21.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1873, y=-32, z=944}
+[12Dec2024 04:29:21.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1876, y=-33, z=949}
+[12Dec2024 04:29:28.543] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1852, y=-23, z=858}
+[12Dec2024 04:29:29.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4249ms or 84 ticks behind
