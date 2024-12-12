@@ -2970,3 +2970,88 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 03:47:19.114] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-87, y:-30, z:89, dim:minecraft:overworld]
 [12Dec2024 03:47:19.115] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
 [12Dec2024 03:47:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Ashes 'n Bones]
+[12Dec2024 03:48:10.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Deceived Hopes]
+[12Dec2024 03:48:18.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Diamond Termite
+[12Dec2024 03:48:18.312] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-948, y:-49, z:4, dim:minecraft:overworld]
+[12Dec2024 03:48:18.341] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 03:48:19.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[12Dec2024 03:48:45.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10820ms or 216 ticks behind
+[12Dec2024 03:49:08.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 03:49:08.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 03:49:09.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[12Dec2024 03:49:37.496] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1065, y=-19, z=348}
+[12Dec2024 03:50:04.310] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1156, y=-29, z=143}
+[12Dec2024 03:50:04.364] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1161, y=-23, z=260}
+[12Dec2024 03:50:04.398] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1167, y=-25, z=280}
+[12Dec2024 03:51:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was killed
+[12Dec2024 03:51:00.797] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 03:51:00.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Killed MrPink007]
+[12Dec2024 03:51:00.799] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 03:51:34.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/11954, l='ServerLevel[world]', x=-794.78, y=-46.00, z=112.24] died: Zombie Player was slain by MrPink007
+[12Dec2024 03:51:43.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Suit Up]
+[12Dec2024 03:52:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Ice Maze]
+[12Dec2024 03:52:48.267] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-807, y=-9, z=461}
+[12Dec2024 03:52:57.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1056, y=-48, z=495}
+[12Dec2024 03:53:28.867] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1192, y=-32, z=263}
+[12Dec2024 03:53:50.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1129, y=-25, z=523}
+[12Dec2024 03:53:59.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1187, y=-35, z=535}
+[12Dec2024 03:53:59.459] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1250, y=-31, z=513}
+[12Dec2024 03:54:09.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 03:54:09.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 03:54:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[12Dec2024 03:55:46.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[12Dec2024 03:57:10.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Isn't It Iron Pick]
+[12Dec2024 03:58:16.482] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[12Dec2024 03:58:16.530] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[12Dec2024 03:58:16.654] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[12Dec2024 03:58:16.654] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[12Dec2024 03:58:16.655] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[12Dec2024 03:58:16.655] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[12Dec2024 03:58:16.656] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[12Dec2024 03:58:24.164] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[12Dec2024 03:58:24.231] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[12Dec2024 03:58:24.234] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[12Dec2024 03:58:24.234] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[12Dec2024 03:58:24.235] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[12Dec2024 03:58:24.236] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[12Dec2024 03:58:24.237] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[12Dec2024 03:59:08.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 03:59:08.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 03:59:13.485] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-709, y=-37, z=450}
+[12Dec2024 03:59:14.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Diamonds!]
+[12Dec2024 03:59:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Ashes 'n Bones]
+[12Dec2024 04:00:28.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[12Dec2024 04:00:43.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [The Wind Darkening]
+[12Dec2024 04:01:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Skeleton Thrasher
+[12Dec2024 04:01:25.031] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-832, y:-48, z:163, dim:minecraft:overworld]
+[12Dec2024 04:01:25.045] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[12Dec2024 04:01:46.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Dark Metallurgy]
+[12Dec2024 04:02:22.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Dread Hound
+[12Dec2024 04:02:22.550] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-827, y:-32, z:235, dim:minecraft:overworld]
+[12Dec2024 04:02:22.568] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:02:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Diamonds!]
+[12Dec2024 04:02:48.226] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-617, y=17, z=416}
+[12Dec2024 04:04:09.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 04:04:09.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 04:05:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[12Dec2024 04:05:20.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Ice Maze]
+[12Dec2024 04:05:36.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[12Dec2024 04:05:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Ice Maze]
+[12Dec2024 04:06:55.306] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-813, y=-41, z=695}
+[12Dec2024 04:07:04.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Tortured Soul
+[12Dec2024 04:07:04.330] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-1013, y:-40, z:513, dim:minecraft:overworld]
+[12Dec2024 04:07:04.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Your First Grave]
+[12Dec2024 04:07:04.340] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:07:06.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [The Most Useful Key]
+[12Dec2024 04:07:11.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [A Fast Comeback]
+[12Dec2024 04:08:02.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1261, y=-29, z=677}
+[12Dec2024 04:08:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was blown up by Creeper
+[12Dec2024 04:08:42.182] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-1096, y:-43, z:506, dim:minecraft:overworld]
+[12Dec2024 04:08:42.191] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:08:56.934] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1267, y=-34, z=294}
+[12Dec2024 04:09:06.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Tortured Soul
+[12Dec2024 04:09:06.830] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[12Dec2024 04:09:06.847] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:09:09.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 04:09:09.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 04:09:12.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
