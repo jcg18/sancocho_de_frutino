@@ -3226,3 +3226,86 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 04:29:28.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 04:29:28.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 04:29:29.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4249ms or 84 ticks behind
+[12Dec2024 04:29:48.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1952, y=-51, z=1164}
+[12Dec2024 04:29:51.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6917ms or 138 ticks behind
+[12Dec2024 04:30:12.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6455ms or 129 ticks behind
+[12Dec2024 04:30:17.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 burned to death
+[12Dec2024 04:30:17.418] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[12Dec2024 04:30:17.419] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[12Dec2024 04:30:17.511] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1990, y=16, z=1164}
+[12Dec2024 04:30:24.856] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1917, y=-15, z=1265}
+[12Dec2024 04:30:29.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2000, y=-27, z=1122}
+[12Dec2024 04:30:34.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[12Dec2024 04:30:48.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2029, y=-20, z=1105}
+[12Dec2024 04:30:55.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[12Dec2024 04:30:56.463] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2041, y=28, z=1212}
+[12Dec2024 04:31:09.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2053, y=-18, z=1090}
+[12Dec2024 04:31:16.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5699ms or 113 ticks behind
+[12Dec2024 04:31:19.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/32410, l='ServerLevel[world]', x=-1903.65, y=-44.00, z=1099.75] died: Zombie Player was slain by MrPink007
+[12Dec2024 04:31:23.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-550, y=14, z=539}
+[12Dec2024 04:31:33.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[12Dec2024 04:31:55.512] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1981, y=-7, z=909}
+[12Dec2024 04:31:55.711] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2083, y=0, z=1252}
+[12Dec2024 04:32:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Baby Skeleton
+[12Dec2024 04:32:01.896] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-801, y:-19, z:318, dim:minecraft:overworld]
+[12Dec2024 04:32:01.936] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[12Dec2024 04:32:07.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[12Dec2024 04:32:28.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6982ms or 139 ticks behind
+[12Dec2024 04:32:32.608] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[12Dec2024 04:32:50.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-724, y=-8, z=592}
+[12Dec2024 04:32:50.716] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-633, y=-16, z=593}
+[12Dec2024 04:33:13.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1324, y=-30, z=1149}
+[12Dec2024 04:33:58.080] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1580, y=-35, z=1464}
+[12Dec2024 04:34:33.853] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1700, y=-23, z=1529}
+[12Dec2024 04:34:52.154] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1725, y=-49, z=1467}
+[12Dec2024 04:34:59.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1897, y=-46, z=1398}
+[12Dec2024 04:35:02.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[12Dec2024 04:35:06.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 04:35:06.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 04:35:26.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2197, y=14, z=1031}
+[12Dec2024 04:35:27.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2217, y=26, z=982}
+[12Dec2024 04:35:27.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2097, y=-1, z=1045}
+[12Dec2024 04:35:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:35:50.230] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2207, y=-43, z=954}
+[12Dec2024 04:35:59.208] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2100, y=-24, z=914}
+[12Dec2024 04:36:19.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2241, y=-25, z=1009}
+[12Dec2024 04:36:19.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2253, y=14, z=859}
+[12Dec2024 04:36:19.244] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2267, y=-44, z=867}
+[12Dec2024 04:36:26.656] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2268, y=38, z=1023}
+[12Dec2024 04:36:26.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2279, y=17, z=1000}
+[12Dec2024 04:36:26.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2284, y=-5, z=1068}
+[12Dec2024 04:36:28.114] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2221, y=10, z=823}
+[12Dec2024 04:36:33.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 fell from a high place
+[12Dec2024 04:36:33.006] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[12Dec2024 04:36:33.007] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[12Dec2024 04:36:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[12Dec2024 04:36:41.361] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2278, y=-9, z=1131}
+[12Dec2024 04:36:42.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 moved wrongly!
+[12Dec2024 04:36:55.955] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2352, y=8, z=1163}
+[12Dec2024 04:37:05.919] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2356, y=-29, z=1253}
+[12Dec2024 04:37:10.153] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2380, y=34, z=1015}
+[12Dec2024 04:37:16.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[12Dec2024 04:37:19.216] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2337, y=-6, z=1287}
+[12Dec2024 04:37:19.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2135, y=-11, z=1291}
+[12Dec2024 04:37:27.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2184, y=7, z=1340}
+[12Dec2024 04:37:45.426] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2022, y=-26, z=1388}
+[12Dec2024 04:37:47.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/36678, l='ServerLevel[world]', x=-837.27, y=-50.00, z=176.10] died: Zombie Player was slain by Xx0bama228xX
+[12Dec2024 04:37:57.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2432, y=-12, z=1080}
+[12Dec2024 04:37:58.053] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2430, y=-23, z=1207}
+[12Dec2024 04:38:04.165] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2456, y=23, z=1096}
+[12Dec2024 04:38:04.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2439, y=-18, z=1242}
+[12Dec2024 04:38:12.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2482, y=30, z=1026}
+[12Dec2024 04:38:12.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2497, y=-8, z=1038}
+[12Dec2024 04:38:14.613] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2511, y=-35, z=1268}
+[12Dec2024 04:38:22.753] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2495, y=-33, z=1296}
+[12Dec2024 04:38:23.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2544, y=-2, z=1219}
+[12Dec2024 04:38:24.310] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2535, y=-10, z=1309}
+[12Dec2024 04:38:33.485] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2558, y=-13, z=1319}
+[12Dec2024 04:38:36.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2478, y=13, z=949}
+[12Dec2024 04:38:52.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[12Dec2024 04:39:13.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5585ms or 111 ticks behind
+[12Dec2024 04:39:17.007] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2570, y=14, z=1233}
+[12Dec2024 04:39:33.590] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2346, y=-2, z=1407}
+[12Dec2024 04:39:35.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[12Dec2024 04:39:51.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2586, y=29, z=1231}
+[12Dec2024 04:40:00.669] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2624, y=-17, z=1092}
