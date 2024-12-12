@@ -71,6 +71,7 @@
       "minecraft:taiga": "2024-12-12 02:46:11 +0000",
       "minecraft:deep_ocean": "2024-12-12 04:24:08 +0000",
       "minecraft:frozen_river": "2024-12-12 02:47:09 +0000",
+      "minecraft:bamboo_jungle": "2024-12-12 04:58:46 +0000",
       "minecraft:wooded_badlands": "2024-12-12 04:52:52 +0000",
       "minecraft:sparse_jungle": "2024-12-12 04:29:24 +0000",
       "minecraft:lukewarm_ocean": "2024-12-12 04:33:27 +0000",
@@ -180,6 +181,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "pumpkin_pie": "2024-12-12 05:07:07 +0000",
       "bread": "2024-12-12 03:09:53 +0000",
       "golden_apple": "2024-12-12 04:04:25 +0000",
       "rotten_flesh": "2024-12-12 04:07:36 +0000",
@@ -1050,73 +1052,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "requirement": "2024-12-12 05:07:20 +0000",
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
@@ -1474,6 +1477,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-12 05:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-12 03:36:57 +0000"
@@ -1495,6 +1504,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-12 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-12 05:01:14 +0000"
     },
     "done": true
   },

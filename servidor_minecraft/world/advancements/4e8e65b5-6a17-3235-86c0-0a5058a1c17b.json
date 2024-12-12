@@ -70,6 +70,7 @@
       "minecraft:mushroom_fields": "2024-12-12 04:11:48 +0000",
       "minecraft:taiga": "2024-12-12 03:42:55 +0000",
       "minecraft:frozen_river": "2024-12-12 03:58:49 +0000",
+      "minecraft:snowy_plains": "2024-12-12 05:01:40 +0000",
       "minecraft:dripstone_caves": "2024-12-12 02:58:27 +0000",
       "minecraft:snowy_taiga": "2024-12-12 02:50:42 +0000",
       "minecraft:lush_caves": "2024-12-12 03:52:27 +0000",
@@ -832,73 +833,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "requirement": "2024-12-12 05:06:53 +0000",
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 04:55:28 +0000"
+      "log_spam_fixer": "2024-12-12 05:06:40 +0000"
     },
     "done": false
   },
@@ -956,6 +958,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-12 04:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-12 05:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-12 04:19:04 +0000"
@@ -995,6 +1009,18 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-12 04:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-12 05:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-12 04:57:18 +0000"
     },
     "done": true
   },
@@ -1076,9 +1102,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-12 04:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-12 05:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-12 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 05:00:48 +0000"
     },
     "done": true
   },
@@ -1424,6 +1468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-12 05:03:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-12 04:29:10 +0000"
@@ -1433,6 +1483,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-12 04:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-12 04:57:18 +0000"
     },
     "done": true
   },
@@ -1493,6 +1549,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-12 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-12 05:03:16 +0000"
     },
     "done": true
   },
@@ -1571,6 +1633,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-12 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 05:06:37 +0000"
     },
     "done": true
   },
@@ -1660,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-12 05:03:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-12 04:54:33 +0000"
@@ -1705,6 +1779,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-12 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 05:06:37 +0000"
     },
     "done": true
   },
